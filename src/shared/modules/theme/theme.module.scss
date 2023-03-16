@@ -1,0 +1,28 @@
+.theme {
+  border: 1px solid teal;
+  display: flex;
+  height: 100%;
+
+  .menuBar {
+    flex-basis: 300px;
+  }
+
+  .menuItems {
+    display: flex;
+    flex-direction: column;
+
+    .active {
+      background-color: teal;
+    }
+
+    .pending {
+      background-color: cadetblue;
+    }
+  }
+
+  .outletContent {
+    width: 100%;
+    border: 1px solid cadetblue;
+  }
+}
+

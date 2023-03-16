@@ -1,0 +1,7 @@
+.side-nav-second-level {
+  display: none;
+
+  &.show {
+    display: block;
+  }
+}

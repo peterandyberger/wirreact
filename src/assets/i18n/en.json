@@ -1,0 +1,6 @@
+{
+  "app.name": "WIR en",
+  "ui-kit": {
+    "get-joke": "Get new joke"
+  }
+}
